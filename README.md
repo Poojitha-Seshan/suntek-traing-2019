@@ -1,1 +1,1 @@
-# suntek-traing-2019
+# suntek-training-2019
